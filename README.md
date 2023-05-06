@@ -1,31 +1,28 @@
-<div align="center">
-    <a href="https://connect.novu.co" target="_blank"><img src="https://user-images.githubusercontent.com/100117126/235352632-e3e22d9e-2c8b-43d3-a297-dd8fbd90fc56.png" /></a>
-</div>
+# Create T3 App
 
-<h1 align="center">The open-source notification infrastructure for developers</h1>
+This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
 
-<div align="center">
-The ultimate service for managing multi-channel notifications with a single API.
-</div>
+## What's next? How do I make an app with this?
 
-<h3>Your Topic</h3>
-<p>Description</p>
+We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
 
-<h3>Technologies being used</h3>
-<p>NextJS / Python / Laravel / NestJS, anything you can to help us bring the right people to test the project</p>
+If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
 
-<h3>App Link</h3>
-<p>If there is</p>
+- [Next.js](https://nextjs.org)
+- [NextAuth.js](https://next-auth.js.org)
+- [Prisma](https://prisma.io)
+- [Tailwind CSS](https://tailwindcss.com)
+- [tRPC](https://trpc.io)
 
-<h3>Screenshoot</h3>
-<img width="1128" alt="image" src="https://user-images.githubusercontent.com/100117126/235352769-56544ab6-8b0d-47f9-8788-e363c692a594.png">
+## Learn More
 
-<h3>Description</h3>
-<p>Explain what you have build in the most detailed way</p>
+To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
 
+- [Documentation](https://create.t3.gg/)
+- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
 
-<h3>Who are you?</h3>
-<p>Give us your best description who are you, and why you have decided to build this project</p>
+You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
 
-<h3>Additional Resources/Info</h3>
-<p>If you have</p>
+## How do I deploy this?
+
+Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
